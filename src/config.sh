@@ -101,3 +101,5 @@ if [[ "$1" == "remove" ]]; then
 else
     ./bin/Runner.Listener configure "$@"
 fi
+
+echo "12"
